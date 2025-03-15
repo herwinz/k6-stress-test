@@ -13,7 +13,7 @@ export let options = {
 
 // Main test function
 export default function () {
-  const url = 'https://app-web-ztg2yzezngfmy.azurewebsites.net/'; // Replace with your App Service URL
+  const url = 'https://app-web-yzcznwy1y2zhm.azurewebsites.net/'; // Replace with your App Service URL
 
   // Perform a GET request
   let res = http.get(url);
