@@ -30,7 +30,7 @@ export let options = {
 
 // Fungsi utama per VU
 export default function () {
-  const url = 'https://app-web-yzcznwy1y2zhm.azurewebsites.net/'; // Ganti dengan URL kamu
+  const url = 'https://cloud-sizing-system.azurewebsites.net/login'; // Ganti dengan URL kamu
 
   // Identitas user random
   const userId = randomString(8);

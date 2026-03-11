@@ -7,6 +7,6 @@ export const options = {
 };
 
 export default function () {
-  http.get('https://cloud-sizing-app.azurewebsites.net/load');
+  http.get('https://cloud-sizing-system.azurewebsites.net/login');
   sleep(1); // Jeda antar request (biar tidak terlalu cepat)
 }

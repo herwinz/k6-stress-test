@@ -14,7 +14,7 @@ export let options = {
 
 // Fungsi utama yang dijalankan oleh setiap Virtual User (VU)
 export default function () {
-  const url = 'https://app-web-yzcznwy1y2zhm.azurewebsites.net/'; // Ganti dengan App Service URL-mu
+  const url = 'https://cloud-sizing-system.azurewebsites.net/login'; // Ganti dengan App Service URL-mu
 
   // Simulasikan user unik dengan ID random
   const userId = randomString(10);

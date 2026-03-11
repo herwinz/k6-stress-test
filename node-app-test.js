@@ -8,5 +8,5 @@ export const options = {
 };
 
 export default function () {
-  http.get('https://cloudsizing-node-app-hahyaucvd3dbg2au.southeastasia-01.azurewebsites.net/load');
+  http.get('https://cloud-sizing-system.azurewebsites.net/login');
 }
